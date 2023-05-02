@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+809c0d24b518a2093ec3b9e1408d9aeb CMakeFiles/BOOK_MANAGEMENT_autogen
+d403b587fcc045399b82490a558d61a8 database/CMakeFiles/database_autogen

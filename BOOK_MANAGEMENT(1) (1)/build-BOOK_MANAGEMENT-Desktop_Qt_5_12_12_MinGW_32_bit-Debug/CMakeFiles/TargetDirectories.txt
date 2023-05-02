@@ -1,0 +1,8 @@
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/CMakeFiles/BOOK_MANAGEMENT.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/CMakeFiles/BOOK_MANAGEMENT_autogen.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/database/CMakeFiles/database.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/database/CMakeFiles/edit_cache.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/database/CMakeFiles/rebuild_cache.dir
+C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/database/CMakeFiles/database_autogen.dir

@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"database/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "database_autogen::@c44ac6e9bb193d64d56d",
+	"isGeneratorProvided" : true,
+	"name" : "database_autogen",
+	"paths" : 
+	{
+		"build" : "database",
+		"source" : "database"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/database/CMakeFiles/database_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/HPGGS03/Downloads/BOOK_MANAGEMENT(1) (1)/build-BOOK_MANAGEMENT-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/database/CMakeFiles/database_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
